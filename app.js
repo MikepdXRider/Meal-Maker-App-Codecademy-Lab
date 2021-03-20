@@ -72,8 +72,8 @@ const menu = {
   console.log(menu.appetizers); //confirm applesauce pop from array
   */
   
-  //Step 12
-  menu.addDishToCourse("appetizers", "Grilled Asparagus", 8)
+  //Add meals to courses object.
+  menu.addDishToCourse("appetizers", "Grilled Asparagus", 8);
   menu.addDishToCourse("appetizers", "Fried Zuchini", 7);
   menu.addDishToCourse("appetizers", "Chicken Nuggets", 5);
   menu.addDishToCourse("mains", "Beef Wellington", 11);
